@@ -131,6 +131,9 @@ section {
     min-height: 100vh;
 }
 
+#contact .section-item {
+    min-height: auto;
+}
 
 .picture-section {
     display: flex;
