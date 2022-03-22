@@ -1,5 +1,9 @@
 /**GENERAL*/
 
+body {
+    background-color: #030027;
+}
+
 a {
     text-decoration: none;
 }
